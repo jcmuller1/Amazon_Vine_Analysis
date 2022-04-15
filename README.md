@@ -6,4 +6,9 @@ The purpose of this analysis was to determine whether product reviews from the A
 
 ## Results
 
+![image1](results.PNG)
 
+- 90 Vine reviews
+    - 44 (48.88%) 5* Vine reviews
+- 37,385 non-Vine reviews
+    - 14,626 (39.12%) 5* non-Vine reviews
